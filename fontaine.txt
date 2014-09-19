@@ -1,0 +1,38 @@
+Fonts
+  Font:
+    Common name: Fasthand
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012, Danh Hong (khmertype.blogspot.com), with Reserved Font Name Fasthand
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.01 May 24, 2012, initial release
+    Vendor: Danh Hong
+    Vendor url: http://www.khmertype.blogspot.com/
+    Designer: Danh Hong
+    Designer url: http://www.khmertype.blogspot.com/
+    Glyph count: 331
+    Character count: 137
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
